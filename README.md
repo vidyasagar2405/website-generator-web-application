@@ -138,9 +138,9 @@ Create a modern portfolio website with a hero section, projects section, and con
 
 ## 👨‍💻 Author
 
-**Empelly Vidya Sagar**
-Aspiring Data Scientist & AI Developer
-📍 Hyderabad, India
+**Empelly Vidya Sagar**  
+Aspiring Data Scientist & AI Developer  
+📍 Hyderabad, India  
 
 * 📧 Email: [vidyasagar2405@gmail.com](mailto:vidyasagar2405@gmail.com)
 * 🔗 GitHub: [https://github.com/vidyasagar2405](https://github.com/vidyasagar2405)
