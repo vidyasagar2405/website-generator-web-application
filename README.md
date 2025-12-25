@@ -1,4 +1,4 @@
-# Website Generator Application using langchian and streamlit
+# Website Generator Application - using langchian and streamlit
 
 An AI-powered Website Generator that converts natural language prompts into complete website code using **LangChain**, **Google Gemini**, and **Streamlit**.
 This project enables users to generate HTML, CSS, and JavaScript code instantly through a simple and interactive UI.
@@ -64,8 +64,8 @@ langchain-streamlit-Website-Generator-Application/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/vidyasagar2405/langchain-streamlit-Website-Generator-Application.git
-cd langchain-streamlit-Website-Generator-Application
+git clone https://github.com/vidyasagar2405/website-generator-web-application.git
+cd website-generator-web-application
 ```
 
 ### 2️⃣ Create Virtual Environment (Optional)
