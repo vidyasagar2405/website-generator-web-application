@@ -1,4 +1,4 @@
-# LangChain Streamlit Website Generator Application 🚀
+# Website Generator Application using langchian and streamlit
 
 An AI-powered Website Generator that converts natural language prompts into complete website code using **LangChain**, **Google Gemini**, and **Streamlit**.
 This project enables users to generate HTML, CSS, and JavaScript code instantly through a simple and interactive UI.
@@ -137,7 +137,7 @@ Create a modern portfolio website with a hero section, projects section, and con
 ---
 
 ## Demo Video
-[video](https://youtu.be/mWHr_NOvG2U)
+## [video](https://youtu.be/mWHr_NOvG2U)
 
 ---
 ## 👨‍💻 Author
@@ -146,8 +146,8 @@ Create a modern portfolio website with a hero section, projects section, and con
 Aspiring Data Scientist & AI Developer  
 📍 Hyderabad, India  
 
-* 📧 Email: [vidyasagar2405@gmail.com](mailto:vidyasagar2405@gmail.com)
-* 🔗 GitHub: [https://github.com/vidyasagar2405](https://github.com/vidyasagar2405)
+* 📧 [Email](mailto:vidyasagar2405@gmail.com)
+* 🔗 [GitHub](https://github.com/vidyasagar2405)
 
 ---
 
